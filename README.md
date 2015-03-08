@@ -10,8 +10,8 @@ Written in python by Henri Dwyer.
 
 Two ipython notebooks show how to use the library for scraping and plotting the ratings. Run them locally or see them hosted:
 
-- [Scraping.ipynb](http://henri.io/posts/scraping.ipynb)
-- [Ratings.ipynb](http://henri.io/posts/ratings.ipynb)
+- [Scraping.ipynb](http://henri.io/posts/scraping.html)
+- [Ratings.ipynb](http://henri.io/posts/ratings.html)
 
 ## Topic Modeling
 
@@ -20,7 +20,7 @@ For topic modeling, you can use a Hierarchical Dirichlet Process. I modified the
 
 This ipython notebook shows how to prepare the data for use with the HDP library, and how to explore the topics form the results.
 
-- [Topic Modeling.ipynb](http://henri.io/posts/topic-modeling.ipynb)
+- [Topic Modeling.ipynb](http://henri.io/posts/topic-modeling.html)
 
 ## Further reading
 
